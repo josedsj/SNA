@@ -3,6 +3,11 @@
 This repository contains information on how to build networks and communities in:<br/>
 -Spotify<br/>
 -Twitter<br/>
+
+## Watch the Video:
+[![YouTube](https://img.youtube.com/vi/0j1TZs0aqgY/0.jpg)](https://www.youtube.com/watch?v=0j1TZs0aqgY)
+
+## See the results:
 ![Spotify](https://github.com/josedsj/img/blob/main/Music%20Connects%20Presentation-1.png?raw=true)<br/>
 ![Spotify](https://github.com/josedsj/img/blob/main/Music%20Connects%20Presentation-2.png?raw=true)<br/>
 ![Spotify](https://github.com/josedsj/img/blob/main/Music%20Connects%20Presentation-3.png?raw=true)<br/>
